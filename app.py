@@ -4,6 +4,7 @@ from scipy.sparse import load_npz
 import pandas as pd
 from numpy import load
 from hybrid_recommendations import HybridRecommenderSystem
+import math 
 
 
 # load the data
